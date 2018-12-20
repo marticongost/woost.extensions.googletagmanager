@@ -1,0 +1,19 @@
+
+[woost.models.settings]
+
+    [x_googletagmananager_container]
+    ca: Contenidor de Google Tag Manager
+    es: Contenedor de Google Tag Manager
+    en: Google Tag Manager container
+
+        [explanation]
+        ca:
+            Trobaràs el codi a la secció <em>Admin</em> del menú principal del teu compte
+            de Google Tag Manager. Exemple: GTM-XYZABCD0.
+        es:
+            Encontrarás el código en la sección <em>Admin</em> del menú principal de tu
+            cuenta de Google Tag Manager. Ejemplo: GTM-XYZABCD0
+        en:
+            You can find your code in the <em>Admin</em> section of the main menu of your
+            Google Tag Manager account. Example: GTM-XYZABCD0
+
